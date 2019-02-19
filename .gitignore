@@ -187,7 +187,3 @@ de-inhome-manager-*.tgz
 setup.py
 venv
 src/main/params.py
-
-
-# Developer requirements
-requirements/requirements-dev.txt
