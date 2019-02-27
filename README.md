@@ -1,1 +1,1 @@
-# grokking-algorithms
+This repo contains code examples and exercises of book "Grokking algorithms".
